@@ -1,3 +1,4 @@
+
 :root {
   --input-padding-x: 1.5rem;
   --input-padding-y: 0.75rem;
@@ -114,4 +115,13 @@
 .error{
   color:red;
   margin-left: 10px;
+}
+
+
+.bg{
+    background: #BC9B78
+}
+.btn-cust{
+     border-radius: 60px;
+     font-size: 16px
 }
